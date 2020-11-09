@@ -51,7 +51,7 @@ body {
 #footer {
     background-color: #2f2f2f;
     padding: 50px 0;
-    position: relative;
+    position: absolute;
     bottom:0px;
 }
 
